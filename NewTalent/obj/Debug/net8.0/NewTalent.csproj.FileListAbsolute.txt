@@ -1,0 +1,14 @@
+C:\Users\natha\Desktop\Nathan\.net\modulo-testes\desafio2\NewTalent\bin\Debug\net8.0\NewTalent.exe
+C:\Users\natha\Desktop\Nathan\.net\modulo-testes\desafio2\NewTalent\bin\Debug\net8.0\NewTalent.deps.json
+C:\Users\natha\Desktop\Nathan\.net\modulo-testes\desafio2\NewTalent\bin\Debug\net8.0\NewTalent.runtimeconfig.json
+C:\Users\natha\Desktop\Nathan\.net\modulo-testes\desafio2\NewTalent\bin\Debug\net8.0\NewTalent.dll
+C:\Users\natha\Desktop\Nathan\.net\modulo-testes\desafio2\NewTalent\bin\Debug\net8.0\NewTalent.pdb
+C:\Users\natha\Desktop\Nathan\.net\modulo-testes\desafio2\NewTalent\obj\Debug\net8.0\NewTalent.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\natha\Desktop\Nathan\.net\modulo-testes\desafio2\NewTalent\obj\Debug\net8.0\NewTalent.AssemblyInfoInputs.cache
+C:\Users\natha\Desktop\Nathan\.net\modulo-testes\desafio2\NewTalent\obj\Debug\net8.0\NewTalent.AssemblyInfo.cs
+C:\Users\natha\Desktop\Nathan\.net\modulo-testes\desafio2\NewTalent\obj\Debug\net8.0\NewTalent.csproj.CoreCompileInputs.cache
+C:\Users\natha\Desktop\Nathan\.net\modulo-testes\desafio2\NewTalent\obj\Debug\net8.0\NewTalent.dll
+C:\Users\natha\Desktop\Nathan\.net\modulo-testes\desafio2\NewTalent\obj\Debug\net8.0\refint\NewTalent.dll
+C:\Users\natha\Desktop\Nathan\.net\modulo-testes\desafio2\NewTalent\obj\Debug\net8.0\NewTalent.pdb
+C:\Users\natha\Desktop\Nathan\.net\modulo-testes\desafio2\NewTalent\obj\Debug\net8.0\NewTalent.genruntimeconfig.cache
+C:\Users\natha\Desktop\Nathan\.net\modulo-testes\desafio2\NewTalent\obj\Debug\net8.0\ref\NewTalent.dll
